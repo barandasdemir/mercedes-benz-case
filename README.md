@@ -11,7 +11,6 @@ Demo accessible at <https://mercedes-benz-case-barandasdemir.vercel.app>
 - File based routing via [unplugin-vue-router](https://www.npmjs.com/package/unplugin-vue-router)
 - Components auto importing via [unplugin-vue-components](https://www.npmjs.com/package/unplugin-vue-components)
 - API auto importing via [unplugin-auto-import](https://www.npmjs.com/package/unplugin-auto-import)
-- State Management via [Pinia](https://pinia.vuejs.org)
 - Fonts load first via [webfontloader](https://www.npmjs.com/package/webfontloader)
 - Validation via [Vee Validate](https://www.npmjs.com/package/vee-validate) & [Zod](https://www.npmjs.com/package/zod)
 - Alerts/Toasts via [vue-toastification](https://github.com/Maronato/vue-toastification/tree/next)
